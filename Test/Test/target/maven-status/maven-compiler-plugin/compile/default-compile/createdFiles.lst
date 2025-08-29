@@ -1,0 +1,6 @@
+com\example\Test\TestApplication.class
+com\example\Test\config\WebClientConfig.class
+com\example\Test\model\GenerateWebhookRequest.class
+com\example\Test\service\WebhookService.class
+com\example\Test\model\GenerateWebhookResponse.class
+com\example\Test\util\SqlSolutions.class

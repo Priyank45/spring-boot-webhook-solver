@@ -1,0 +1,6 @@
+app:
+  init-url: "https://bfhldevapigw.healthrx.co.in/hiring/generateWebhook/JAVA"
+  submit-url: "https://bfhldevapigw.healthrx.co.in/hiring/testWebhook/JAVA"
+  name: "John Doe"
+  regNo: "REG12348"
+  email: "john@example.com"
